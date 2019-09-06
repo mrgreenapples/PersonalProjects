@@ -4,4 +4,4 @@ Press q to quit and display solution.
 Input a single number followed by 'c' to check your answer.
 The box will turn blue if it is incorrect and green if it is correct. 
 After the boxes turn green, that box is no longer accessible. 
-Cells shaded purple if you wil & gives time completed in nanoseconds :)
+Cells shaded purple if you win & gives time completed in nanoseconds :)
