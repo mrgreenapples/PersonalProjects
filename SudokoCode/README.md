@@ -1,4 +1,4 @@
-This is a Sudoko game made with Java. 
+This is a Sudoku game made with Java. 
 The grid boxes can be accessed with either the mouse or keyboard keys.
 Press q to quit and display solution.
 Input a single number followed by 'c' to check your answer.
